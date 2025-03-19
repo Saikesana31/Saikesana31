@@ -101,7 +101,8 @@ I’m a **Data Engineer** passionate in designing end-to-end **Data workflows**,
 
 ### **🛡️ Data Governance & Security**
 ![HIPAA Compliance](https://img.shields.io/badge/HIPAA_Compliance-004D40?style=for-the-badge&logo=security&logoColor=white)
-![Data Anonymization](https://img.shields.io/badge/Data_Anonymization-1E88E5?style=for-the-badge&logo=dataprivacy&logoColor=white)
+![IAM](https://img.shields.io/badge/Identity%20%26%20Access%20Management-008000?style=for-the-badge&logo=okta&logoColor=white)
+![Data Security](https://img.shields.io/badge/Data%20Security-FF6F00?style=for-the-badge&logo=security&logoColor=white)
 ![Data Quality Control](https://img.shields.io/badge/Data_Quality_Control-2E7D32?style=for-the-badge&logo=dataquality&logoColor=white)
 
 ---
@@ -127,6 +128,8 @@ I’m a **Data Engineer** passionate in designing end-to-end **Data workflows**,
 👨‍💻 **[GitHub](https://github.com/Saikesana31)**  
 
 ---
+
+🚀 **I’m always open to collaborations & new opportunities! Let’s build something amazing together!** 🔥
 
 
 
