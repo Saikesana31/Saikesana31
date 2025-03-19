@@ -16,11 +16,7 @@
 
 <p align="left">✅ Design & Build Scalable Data Pipelines – Develop batch & real-time ETL processes using Apache Airflow, dbt, and Spark.<br>✅ Optimize Data Flow & Transformation – Efficiently process structured & unstructured data across distributed systems.<br>✅ Streaming Data Processing – Work with Kafka, Flink, and Spark Streaming for real-time data ingestion.<br>✅ Implement Data Lake & Warehouse Solutions – Leverage Azure Data Lake, Snowflake, Redshift, and Delta Lake for efficient storage.</p>
 
-### **📦 AI Frameworks & Tools**
-✅ **LangChain** – LLM Pipelines & Memory  
-✅ **Gradio** – UI for AI Applications  
-✅ **Hugging Face Transformers** – Open-Source Model Integration  
-✅ **OpenAI API** – Model Interaction  
+ 
 
 ### **☁️ Cloud & Big Data**
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -67,8 +63,10 @@
 
 | 🚗 Netflix Data Engineerg project with Azure | 🚀Adventure Works and Power Bi |
 | :-: | :-: |
-| [<img height="200" src="https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_lim.size_1050x591.v1582751026.png"/>](https://github.com/AravindBethapudi/Used-Car-Recommendation) | [<img src="https://github.com/AravindBethapudi/aravindbethapudi/blob/main/falcon.jpg?raw=true" width="500" height="300"/>](https://github.com/AravindBethapudi/Falcon) |
-| [🔗 View Project](https://github.com/Saikesana31/Netflix.git) | [🔗 View Project](https://github.com/Saikesana31/Adventure_Works_DE.git) |
+| [<img height="300" src="https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_lim.size_1050x591.v1582751026.png"/>](https://github.com/Saikesana31/Netflix.git) | [<img height="300" src="https://community.fabric.microsoft.com/t5/image/serverpage/image-id/880688iFB5A3FCB0B21CE78?v=v2"/>](https://github.com/Saikesana31/Adventure_Works_DE.git) |
+
+
+
 
 
 
