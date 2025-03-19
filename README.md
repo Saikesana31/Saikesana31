@@ -57,6 +57,19 @@ I’m a **Data Engineer** passionate in designing end-to-end **Data workflows**,
 ✅ **Data Encryption** - Master key encryption for secure data      
 ✅ **Access Control** - Scoped credentials and role-based access       
 
+## 🛠️ My Skills & Tech Stack
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### **Python Libraries**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **☁️ Cloud & Big Data**
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -72,7 +85,9 @@ I’m a **Data Engineer** passionate in designing end-to-end **Data workflows**,
 ![EHR/EMR Systems](https://img.shields.io/badge/EHR_EMR_Systems-00695C?style=for-the-badge&logo=healthcare&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Talend](https://img.shields.io/badge/Talend-EB5424?style=for-the-badge&logo=talend&logoColor=white)
+![Azure SQL Database](https://img.shields.io/badge/Azure%20SQL%20Database-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
@@ -96,14 +111,13 @@ I’m a **Data Engineer** passionate in designing end-to-end **Data workflows**,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=gradio&logoColor=white)
 
-
 ---
+
 <h2 align = "center"> 🖥 My DataEngineer Projects </h2>
 
 | 🎬 Netflix Data Engineerg project with Azure | 🚀 Adventure Works and Power Bi |
 | :-: | :-: |
 | [<img height="300" src="https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_lim.size_1050x591.v1582751026.png"/>](https://github.com/Saikesana31/Netflix.git) | [<img height="300" src="https://community.fabric.microsoft.com/t5/image/serverpage/image-id/880688iFB5A3FCB0B21CE78?v=v2"/>](https://github.com/Saikesana31/Adventure_Works_DE.git) |
-
 
 ---
 
