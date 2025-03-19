@@ -10,10 +10,10 @@ I’m a **Data Engineer** passionate in designing end-to-end **Data workflows**,
 
 <h2 align="left">👨‍💻About me:</h2>
 
-🔭 **Master's in Business Analytics & AI** from **University of Texas at Dallas** | **Bachelor's from IIT-BHU**
-🔭 **4+ years** of experience in **Data Engineer, ETL pipelines  and Data workflows**
-🔭 **Currently working** as a **Data Engineer** at **NationWide**
-🔭 **Expertise** in designing **End-to-End pipelines** and **Real-time streaming Data**
+🔭 **Master's in Business Analytics & AI** from **University of Texas at Dallas** | **Bachelor's from IIT-BHU**  
+🔭 **4+ years** of experience in **Data Engineer, ETL pipelines  and Data workflows**   
+🔭 **Currently working** as a **Data Engineer** at **NationWide**    
+🔭 **Expertise** in designing **End-to-End pipelines** and **Real-time streaming Data**    
 
 ---
 
